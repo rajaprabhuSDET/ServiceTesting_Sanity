@@ -244,7 +244,6 @@ public class BaseClass implements API
 		}
 
 		return status;	
-		
 	}
 
 	protected void analyse(LinkedHashMap<String, String> Conditiontablerow,LinkedHashMap<String, String> outputrow ) throws DatabaseException 
